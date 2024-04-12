@@ -40,7 +40,6 @@
                       </div>
                         
                 </div>
-                      
                      
                     <!-- /.card-body -->
               </form>
@@ -55,7 +54,6 @@
         <!-- /.modal-dialog -->
 </div>
 
-
 <script>
   function enviarFormulario() {
       var form = document.getElementById("form_usuario");
@@ -63,6 +61,4 @@
 
   }
 
-  
- 
 </script>

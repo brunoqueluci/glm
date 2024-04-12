@@ -18,7 +18,6 @@
     <section class="content">
       <div class="container-fluid">
 
-
         <!-- Info boxes -->
         <div class="card">
               <div class="card-header bg-gray">
@@ -26,8 +25,8 @@
                  <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modal-xl-obreiro-new">
                   Adicionar Novo Obreiro
                 </button></h3>
-                
               </div>
+              
               <!-- /.card-header -->
               <div class="card-body">
                 <table id="example1" class="table table-sm table-bordered table-striped">
@@ -43,7 +42,6 @@
                   <tbody>
                      
                   </tbody>
-                  
                 </table>
               </div>
               <!-- /.card-body -->
@@ -56,8 +54,6 @@
 
   <?php echo$this->include('Layout_Admin/Footer') ?>
   <?php echo $this->include('Usuario/modals_usuario')  ?>
-
-
   <script>
     // Seleciona o botão
     var botao = document.getElementById("delete_usuario>");
