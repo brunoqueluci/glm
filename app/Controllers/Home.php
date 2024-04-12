@@ -6,6 +6,9 @@ class Home extends BaseController
 {
     public function index(): string
     {
-        return view('welcome_message');
+        $data = [
+            'breadcrump' => 'dashboard'
+        ];
+        return view('Admin_Home', $data);
     }
 }
