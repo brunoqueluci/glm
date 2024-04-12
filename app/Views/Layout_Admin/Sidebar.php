@@ -29,8 +29,20 @@
               </li>
               <li class="nav-item">
                 <a href="/obreiro" class="nav-link">
-                <i class="nav-icon fas fa-users"></i>
-                  <p>Obreiro</p>
+                <i class="nav-icon fas fa-feather"></i>
+                  <p>Secretaria</p>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="/obreiro" class="nav-link">
+                <i class="nav-icon fas fa-key"></i>
+                  <p>Tesouraria</p>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="/obreiro" class="nav-link">
+                <i class="nav-icon fas fa-stamp"></i>
+                  <p>Chancelaria</p>
                 </a>
               </li>
          
